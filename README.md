@@ -16,7 +16,7 @@
 [<img align="left" alt="Brennan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/b_hyde13
-[linkedin]: https://linkedin.com/in/BrennanHyde
+[linkedin]: https://www.linkedin.com/in/brennan-hyde/
 
 <!--
 **brennanhyde8/brennanhyde8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
